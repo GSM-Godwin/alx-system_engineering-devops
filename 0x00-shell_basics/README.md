@@ -1,2 +1,1 @@
-Listing content
-Changing directory
+ Display the contents of your current directory in a long format
