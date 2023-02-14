@@ -1,1 +1,1 @@
-Creates a new local variable named 'BETTY'
+Creates a new global variable named 'HOLBERTON'
