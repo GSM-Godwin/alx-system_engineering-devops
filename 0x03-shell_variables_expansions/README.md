@@ -1,1 +1,1 @@
-Displays the result if 'BREATH' to te power 'LOVE'
+Converts a number from base 2 to base 10
