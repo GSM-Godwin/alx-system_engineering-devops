@@ -1,1 +1,1 @@
-Prints the result of 'POWER' divided by 'DIVIDE', followed by a new line
+Displays the result if 'BREATH' to te power 'LOVE'
