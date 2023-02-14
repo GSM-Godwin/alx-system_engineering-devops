@@ -1,1 +1,1 @@
-Converts a number from base 2 to base 10
+Prints all combinations of two letters, except 'oo'
