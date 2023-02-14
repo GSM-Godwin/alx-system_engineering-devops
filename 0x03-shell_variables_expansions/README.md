@@ -1,1 +1,1 @@
-Prints all combinations of two letters, except 'oo'
+Prints a number with two decimal places. The number is stored in the environment variable 'NUM'
