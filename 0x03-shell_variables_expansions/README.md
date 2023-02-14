@@ -1,1 +1,1 @@
-Prints a number with two decimal places. The number is stored in the environment variable 'NUM'
+Converts a number from base 10 to base 16
