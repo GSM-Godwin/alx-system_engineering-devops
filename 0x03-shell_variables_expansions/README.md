@@ -1,1 +1,1 @@
-Prints every other line from the input, starting with the first line
+Adds the two number stored in  the environment variables 'WATER' and 'STIR' and prints the result
